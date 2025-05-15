@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ümit güzelyel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ümit güzelyel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%C3%BCmit-g%C3%BCzelyel-018458335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ümit güzelyel" height="30" width="40" /></a>
 <a href="https://instagram.com/umit_gzlyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umit_gzlyl" height="30" width="40" /></a>
 </p>
 
