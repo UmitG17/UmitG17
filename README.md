@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Create CV**
+- 🔭 I’m currently working on **Create New Projects**
 
 - 🌱 I’m currently learning **C++**
 
